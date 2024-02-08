@@ -1,0 +1,297 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "soujanya",
+      "price": "2000",
+      "change": "Rs.150",
+      "available": 20
+    },
+    {
+      "id": 2,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "leather ",
+      "price": 2000,
+      "change": "Rs.150",
+      "available": 20
+    },
+    {
+      "id": 8,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "purse",
+      "change": "Rs.1500",
+      "price": "1200",
+      "available": "12"
+    },
+    {
+      "id": 9,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "hello",
+      "change": "Rs.99",
+      "price": "120",
+      "available": "100"
+    },
+    {
+      "id": 10,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "munna",
+      "change": "Rs.1250",
+      "price": "15000",
+      "available": "12"
+    },
+    {
+      "id": 11,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "purse",
+      "change": "Rs.15",
+      "price": "120",
+      "available": "100"
+    },
+    {
+      "id": 12,
+      "url": "https://tiimg.tistatic.com/fp/1/008/311/men-black-leather-wallet-for-carry-cash-card-388.jpg",
+      "title": "new",
+      "change": "Rs.150",
+      "price": "1200",
+      "available": "1"
+    },
+    {
+      "id": 13,
+      "url": "https://assets.ajio.com/medias/sys_master/root/20230717/YMZL/64b52748eebac147fc71e840/-288Wx360H-465360713-brown-MODEL.jpg",
+      "title": "new pack",
+      "change": "Rs.12000",
+      "price": "1500",
+      "available": "2"
+    },
+    {
+      "id": 15,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "leather",
+      "change": "Rs.3000",
+      "price": "1250",
+      "available": "0"
+    },
+    {
+      "id": 16,
+      "url": "https://assets.ajio.com/medias/sys_master/root/20230717/YMZL/64b52748eebac147fc71e840/-288Wx360H-465360713-brown-MODEL.jpg",
+      "title": "munwar",
+      "change": "Rs.5000",
+      "price": "2500",
+      "available": "20"
+    },
+    {
+      "id": 17,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "leather",
+      "change": "Rs.25000",
+      "price": "1200",
+      "available": "0"
+    },
+    {
+      "id": 18,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "munwar",
+      "change": "Rs.3000",
+      "price": "1200",
+      "available": "nil"
+    },
+    {
+      "id": 19,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 20,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 21,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 22,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 23,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 24,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 25,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 26,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 27,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 28,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "ladies",
+      "price": "2100",
+      "change": "1800",
+      "available": "3"
+    },
+    {
+      "id": 29,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 30,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 31,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 32,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 33,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 34,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 35,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 36,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "munna",
+      "change": "Rs.2500",
+      "price": "2000",
+      "available": "15"
+    },
+    {
+      "id": 37,
+      "url": "https://tiimg.tistatic.com/fp/1/008/311/men-black-leather-wallet-for-carry-cash-card-388.jpg",
+      "title": "purse",
+      "change": "Rs.2500",
+      "price": "2000",
+      "available": "2"
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "leather ",
+      "price": 2000,
+      "change": "Rs.150",
+      "available": 20
+    },
+    {
+      "id": 34,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    },
+    {
+      "id": 11,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWPKpTvasFmT4PEsTuU40JPk-WKwMPvWUykQ7mT5ubg&s",
+      "title": "purse",
+      "change": "Rs.15",
+      "price": "120",
+      "available": "100"
+    },
+    {
+      "id": 16,
+      "url": "https://assets.ajio.com/medias/sys_master/root/20230717/YMZL/64b52748eebac147fc71e840/-288Wx360H-465360713-brown-MODEL.jpg",
+      "title": "munwar",
+      "change": "Rs.5000",
+      "price": "2500",
+      "available": "20"
+    },
+    {
+      "id": 24,
+      "url": "https://dynokart.in/wp-content/uploads/2018/03/IMG_2931-1.jpg",
+      "title": "ladies",
+      "change": "1800",
+      "price": "2100",
+      "available": "3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
